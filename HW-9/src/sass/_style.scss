@@ -1,0 +1,32 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+
+#datetime-picker,
+button {
+  padding: 5px;
+  border-radius: 3px;
+  border: none;
+  border: 1px solid #000000;
+}
+
+.timer {
+  display: flex;
+  margin: 20px;
+}
+.field {
+  margin-right: 20px;
+}
+.value {
+  display: block;
+  text-align: center;
+  font-size: 36px;
+}
+.value-seconds {
+  color: red;
+}
+.label {
+  display: block;
+  font-weight: 500;
+}

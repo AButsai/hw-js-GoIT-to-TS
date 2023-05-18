@@ -1,0 +1,16 @@
+{
+	"name": "hw-6",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "lite-server",
+		"build": "tsc --watch"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.6.1",
+		"typescript": "^5.0.4"
+	}
+}
