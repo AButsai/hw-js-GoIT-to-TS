@@ -1,12 +1,20 @@
 {
-  "compilerOptions": {
-    "target": "es5",
-    "module": "esnext",
-    "lib": ["es2015", "dom"],
-    "strict": true,
-    "esModuleInterop": true,
-    "sourceMap": true,
-    "resolveJsonModule": true,
-    "moduleResolution": "node"
-  }
+	"compilerOptions": {
+		"target": "es5",
+		"module": "esnext",
+		"lib": ["es2015", "dom"],
+		"strict": true,
+		"esModuleInterop": true,
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"moduleResolution": "node",
+		"rootDir": "./src",
+		"typeRoots": ["./node_modules/@types"],
+		"outDir": "./dist"
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_module"],
+	"ts-node": {
+		"esm": true
+	}
 }

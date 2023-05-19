@@ -1,1 +1,1 @@
-import './ts/countries';
+import './ts/countries.js'

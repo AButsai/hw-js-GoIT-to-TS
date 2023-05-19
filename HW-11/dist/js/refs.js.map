@@ -1,0 +1,1 @@
+{"version":3,"file":"refs.js","sourceRoot":"","sources":["../../src/js/refs.ts"],"names":[],"mappings":"AAOA,IAAM,IAAI,GAAU;IAClB,UAAU,EAAE,QAAQ,CAAC,aAAa,CAAC,cAAc,CAAC;IAClD,OAAO,EAAE,QAAQ,CAAC,aAAa,CAAC,UAAU,CAAC;IAC3C,cAAc,EAAE,QAAQ,CAAC,aAAa,CAAC,eAAe,CAAC;IACvD,SAAS,EAAE,QAAQ,CAAC,aAAa,CAAC,YAAY,CAAC;CAChD,CAAC;AAEF,eAAe,IAAI,CAAC"}
